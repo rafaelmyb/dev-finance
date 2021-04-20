@@ -32,7 +32,7 @@ $ cd dev-finance
 # Execute o arquivo index.html com o Live-Server
 ```
 
-Ou baixe os arquivos e comece abrindo-os em algum editor como o vscode por exemplo
+Ou baixe os arquivos e comece abrindo-os em algum editor como o vscode por exemplo e executando com o Live-Server o index.html 
 
 ## 🚀 Tecnologias
 
