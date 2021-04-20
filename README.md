@@ -32,7 +32,7 @@ $ cd dev-finance
 # Execute o arquivo index.html com o Live-Server
 ```
 
-Ou baixe os arquivos e comece abrindo-os em algum editor como o vscode por exemplo e executando com o Live-Server o index.html 
+Ou baixe os arquivos e comece abrindo-os em algum editor como o vscode por exemplo e executando com o Live-Server o index.html
 
 ## 🚀 Tecnologias
 
@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O dev.finance$ é uma aplicação de registro de finanças, no qual é possível cadastrar entradas, saídas e obter o saldo ou débito, juntamente com a soma do valor das entradas e saídas. O programa mostra também uma pequena descrição sobre essas entradas e saídas, contendo nome, valor e data. 💰
+O dev.finance$ é uma aplicação de registro de finanças, no qual é possível cadastrar entradas, saídas e obter o saldo ou débito, juntamente com a soma do valor das entradas e saídas. O programa mostra também uma pequena descrição sobre essas entradas e saídas, contendo nome, valor e data. E o mais importante, os dados ficam salvos no Local Storage do seu navegador, portanto você não irá perde-los, a menos que apague o arquivo de Local Storage do teu navegador.
 
 ## :memo: Licença
 
